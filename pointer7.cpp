@@ -3,6 +3,7 @@
 #include<stdio.h>
 using namespace std;
 
+// this is a structure of employee
 struct EMPLOYEE
 
 {
