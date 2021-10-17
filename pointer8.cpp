@@ -1,6 +1,6 @@
 #include<iostream>
 
-// LOve babbar hello 
+// LOve babbar hello new
 using namespace std;
 
 class Time {
